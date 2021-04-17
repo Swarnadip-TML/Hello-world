@@ -1,2 +1,4 @@
 # Hello-world
-for learning purpose
+created this file for learning purpose
+
+hello there..
